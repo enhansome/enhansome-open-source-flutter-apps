@@ -1,0 +1,237 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generative AI & LLMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Personal Finance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web3 & Crypto"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wallets, Payments & PoS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lifestyle"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Business"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools & Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Password, Encryption & Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Photo & Video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games & Fun"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Food & Drink"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Comics, Anime & Manga"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Health & Fitness"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Medical"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Travel & Navigation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cars & Automobiles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Education"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graphics & Design"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Entertainment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "News & Feed"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Chat & Messaging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Social Networking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network, Bluetooth & Sharing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IoT & Remote Control"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Weather"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shopping & E-commerce"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AR & VR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Kids"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pets & Animals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wearables"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Admin Dashboard"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Portfolio"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "App Store & Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Accessibility"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Religion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Boilerplate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Privacy, Safety & Crime"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Environment, Social & Agriculture"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:47:33.372Z",
+    "original_repository": "fluttergems/awesome-open-source-flutter-apps",
+    "original_repository_sha": "f31abbfcd28bcf947919029d554e303e24edcdd8",
+    "enhanced_repository": "enhansome/enhansome-open-source-flutter-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open Source Flutter Apps with stars"
+  }
+}
